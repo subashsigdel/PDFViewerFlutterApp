@@ -1,0 +1,17 @@
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/pdfviewerapp
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/pp.png
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/pdf.png
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/office.png
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/excel.png
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/pdf2.png
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
