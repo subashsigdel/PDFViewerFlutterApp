@@ -1,8 +1,8 @@
-# Install script for directory: /home/subash/VsCode/flutter/pdfviewerapp/linux/flutter
+# Install script for directory: /home/subash/VsCode/PDFViewerFlutterApp/pdfviewer/linux/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/subash/VsCode/flutter/pdfviewerapp/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/subash/VsCode/PDFViewerFlutterApp/pdfviewer/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

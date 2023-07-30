@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:pdfviewerapp/developer.dart';
-import 'package:pdfviewerapp/subjectwise.dart';
+import 'package:pdfviewer/developer.dart';
+import 'package:pdfviewer/subjectwise.dart';
 
 class HomePage extends StatefulWidget {
   @override

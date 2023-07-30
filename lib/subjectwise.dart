@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pdfviewerapp/developer.dart';
+import 'package:pdfviewer/developer.dart';
 
 class SubjectWise extends StatefulWidget {
   const SubjectWise({super.key});
